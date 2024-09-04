@@ -18,8 +18,7 @@ helping you stay on top of the latest trends for content optimization.</p>
 <p>Our tool helps you quickly extract user information through tiktok user connections(username,email,phone,follows,following,likes etc)</p>
 
 <img src="https://i.ibb.co/26j6MCf/tk1.png" alt="TikTok leader extractor" />
-<img src="https://i.ibb.co/nsxT7Gj/tk1.png" alt="tk1" border="0">
-<img src="https://i.ibb.co/VJxGp6k/tk2.jpg" alt="tk2" border="0">
+<img src="https://i.ibb.co/QdV9Q9F/tk001.jpg" alt="tk001" border="0">
 
 <h2><strong>How to Start?---Youtube Video Demo</strong></h2>
 <img src="https://i.ibb.co/xzxBQWw/ytbdemo.png" alt="Tiktok Leader Extract Pro Max, TikTok follow extraction tool, TikTok influencer extraction ,TikTok extract user information, Extract TikTok followers by hashtag, TikTok data scraper, TikTok user extraction software, TikTok scrape follow list" />
